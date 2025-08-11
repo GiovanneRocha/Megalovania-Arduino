@@ -8,7 +8,7 @@ Este projeto reproduz a música **Megalovania** utilizando um Arduino e um buzze
 
 **Megalovania** é uma música composta por **Toby Fox**, originalmente para o jogo *Undertale* (2015). Ela é tocada durante a batalha contra o personagem **Sans**, sendo uma das trilhas mais icônicas da cultura gamer.
 
-🔗 Ouça no Spotify: [Megalovania - Toby Fox](https://open.spotify.com/track/2TpxZ7JUBn3uw46aR7qd6V)
+🔗 Ouça no Spotify: [Megalovania - Toby Fox](https://open.spotify.com/intl-pt/track/1J03Vp93ybKIxfzYI4YJtL)
 
 ---
 
